@@ -1,0 +1,875 @@
+[
+  {
+    "id": "Thirtieth_Collection-3c-021",
+    "name": "Greninja ex",
+    "setCode": "3c",
+    "setFolder": "Thirtieth_Collection",
+    "setLabel": "30th Anniversary Collection",
+    "number": "021",
+    "image": "/cards/Thirtieth_Collection/3c-021-Greninja_ex.webp"
+  },
+  {
+    "id": "Thirtieth_Collection-3c-036",
+    "name": "Pikachu",
+    "setCode": "3c",
+    "setFolder": "Thirtieth_Collection",
+    "setLabel": "30th Anniversary Collection",
+    "number": "036",
+    "image": "/cards/Thirtieth_Collection/3c-036-Pikachu.webp"
+  },
+  {
+    "id": "Thirtieth_Collection-3c-037",
+    "name": "Pikachu",
+    "setCode": "3c",
+    "setFolder": "Thirtieth_Collection",
+    "setLabel": "30th Anniversary Collection",
+    "number": "037",
+    "image": "/cards/Thirtieth_Collection/3c-037-Pikachu.webp"
+  },
+  {
+    "id": "Thirtieth_Collection-3c-047",
+    "name": "Pikachu",
+    "setCode": "3c",
+    "setFolder": "Thirtieth_Collection",
+    "setLabel": "30th Anniversary Collection",
+    "number": "047",
+    "image": "/cards/Thirtieth_Collection/3c-047-Pikachu.webp"
+  },
+  {
+    "id": "Thirtieth_Collection-3c-069",
+    "name": "Espeon",
+    "setCode": "3c",
+    "setFolder": "Thirtieth_Collection",
+    "setLabel": "30th Anniversary Collection",
+    "number": "069",
+    "image": "/cards/Thirtieth_Collection/3c-069-Espeon.webp"
+  },
+  {
+    "id": "Thirtieth_Collection-3c-070",
+    "name": "Espeon ex",
+    "setCode": "3c",
+    "setFolder": "Thirtieth_Collection",
+    "setLabel": "30th Anniversary Collection",
+    "number": "070",
+    "image": "/cards/Thirtieth_Collection/3c-070-Espeon_ex.webp"
+  },
+  {
+    "id": "Thirtieth_Collection-3c-071",
+    "name": "Sylveon ex",
+    "setCode": "3c",
+    "setFolder": "Thirtieth_Collection",
+    "setLabel": "30th Anniversary Collection",
+    "number": "071",
+    "image": "/cards/Thirtieth_Collection/3c-071-Sylveon_ex.webp"
+  },
+  {
+    "id": "Thirtieth_Collection-3c-091",
+    "name": "Umbreon",
+    "setCode": "3c",
+    "setFolder": "Thirtieth_Collection",
+    "setLabel": "30th Anniversary Collection",
+    "number": "091",
+    "image": "/cards/Thirtieth_Collection/3c-091-Umbreon.webp"
+  },
+  {
+    "id": "Thirtieth_Collection-3c-092",
+    "name": "Umbreon ex",
+    "setCode": "3c",
+    "setFolder": "Thirtieth_Collection",
+    "setLabel": "30th Anniversary Collection",
+    "number": "092",
+    "image": "/cards/Thirtieth_Collection/3c-092-Umbreon_ex.webp"
+  },
+  {
+    "id": "Thirtieth_Collection-3c-102",
+    "name": "Jirachi ex",
+    "setCode": "3c",
+    "setFolder": "Thirtieth_Collection",
+    "setLabel": "30th Anniversary Collection",
+    "number": "102",
+    "image": "/cards/Thirtieth_Collection/3c-102-Jirachi_ex.webp"
+  },
+  {
+    "id": "Thirtieth_Collection-3c-116",
+    "name": "Eevee",
+    "setCode": "3c",
+    "setFolder": "Thirtieth_Collection",
+    "setLabel": "30th Anniversary Collection",
+    "number": "116",
+    "image": "/cards/Thirtieth_Collection/3c-116-Eevee.webp"
+  },
+  {
+    "id": "Thirtieth_Collection-3c-117",
+    "name": "Eevee",
+    "setCode": "3c",
+    "setFolder": "Thirtieth_Collection",
+    "setLabel": "30th Anniversary Collection",
+    "number": "117",
+    "image": "/cards/Thirtieth_Collection/3c-117-Eevee.webp"
+  },
+  {
+    "id": "Thirtieth_Collection-3c-118",
+    "name": "Eevee",
+    "setCode": "3c",
+    "setFolder": "Thirtieth_Collection",
+    "setLabel": "30th Anniversary Collection",
+    "number": "118",
+    "image": "/cards/Thirtieth_Collection/3c-118-Eevee.webp"
+  },
+  {
+    "id": "Thirtieth_Collection-3c-131",
+    "name": "Lapras",
+    "setCode": "3c",
+    "setFolder": "Thirtieth_Collection",
+    "setLabel": "30th Anniversary Collection",
+    "number": "131",
+    "image": "/cards/Thirtieth_Collection/3c-131-Lapras.webp"
+  },
+  {
+    "id": "Thirtieth_Collection-3c-136",
+    "name": "Drifloon",
+    "setCode": "3c",
+    "setFolder": "Thirtieth_Collection",
+    "setLabel": "30th Anniversary Collection",
+    "number": "136",
+    "image": "/cards/Thirtieth_Collection/3c-136-Drifloon.webp"
+  },
+  {
+    "id": "Thirtieth_Collection-3c-138",
+    "name": "Lycanroc",
+    "setCode": "3c",
+    "setFolder": "Thirtieth_Collection",
+    "setLabel": "30th Anniversary Collection",
+    "number": "138",
+    "image": "/cards/Thirtieth_Collection/3c-138-Lycanroc.webp"
+  },
+  {
+    "id": "Thirtieth_Collection-3c-145",
+    "name": "Hisuian Zorua",
+    "setCode": "3c",
+    "setFolder": "Thirtieth_Collection",
+    "setLabel": "30th Anniversary Collection",
+    "number": "145",
+    "image": "/cards/Thirtieth_Collection/3c-145-Hisuian_Zorua.webp"
+  },
+  {
+    "id": "Thirtieth_Collection-3c-157",
+    "name": "Mewtwo ex",
+    "setCode": "3c",
+    "setFolder": "Thirtieth_Collection",
+    "setLabel": "30th Anniversary Collection",
+    "number": "157",
+    "image": "/cards/Thirtieth_Collection/3c-157-Mewtwo_ex.webp"
+  },
+  {
+    "id": "Thirtieth_Collection-3c-158",
+    "name": "Mew ex",
+    "setCode": "3c",
+    "setFolder": "Thirtieth_Collection",
+    "setLabel": "30th Anniversary Collection",
+    "number": "158",
+    "image": "/cards/Thirtieth_Collection/3c-158-Mew_ex.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-001",
+    "name": "Heracross",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "001",
+    "image": "/cards/Delta_Reign/6a-001-Heracross.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-002",
+    "name": "Surskit",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "002",
+    "image": "/cards/Delta_Reign/6a-002-Surskit.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-003",
+    "name": "Masquerain",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "003",
+    "image": "/cards/Delta_Reign/6a-003-Masquerain.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-004",
+    "name": "Cacnea",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "004",
+    "image": "/cards/Delta_Reign/6a-004-Cacnea.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-005",
+    "name": "Cacturne",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "005",
+    "image": "/cards/Delta_Reign/6a-005-Cacturne.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-006",
+    "name": "Combee",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "006",
+    "image": "/cards/Delta_Reign/6a-006-Combee.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-007",
+    "name": "Vespiquen",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "007",
+    "image": "/cards/Delta_Reign/6a-007-Vespiquen.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-008",
+    "name": "Wimpod",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "008",
+    "image": "/cards/Delta_Reign/6a-008-Wimpod.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-009",
+    "name": "Mega Golisopod ex",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "009",
+    "image": "/cards/Delta_Reign/6a-009-Mega_Golisopod_ex.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-010",
+    "name": "Growlithe",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "010",
+    "image": "/cards/Delta_Reign/6a-010-Growlithe.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-011",
+    "name": "Arcanine",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "011",
+    "image": "/cards/Delta_Reign/6a-011-Arcanine.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-012",
+    "name": "Magmar",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "012",
+    "image": "/cards/Delta_Reign/6a-012-Magmar.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-013",
+    "name": "Magmortar",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "013",
+    "image": "/cards/Delta_Reign/6a-013-Magmortar.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-014",
+    "name": "Torkoal",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "014",
+    "image": "/cards/Delta_Reign/6a-014-Torkoal.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-015",
+    "name": "Heat Rotom ex",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "015",
+    "image": "/cards/Delta_Reign/6a-015-Heat_Rotom_ex.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-016",
+    "name": "Heatmor",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "016",
+    "image": "/cards/Delta_Reign/6a-016-Heatmor.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-017",
+    "name": "Mantine",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "017",
+    "image": "/cards/Delta_Reign/6a-017-Mantine.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-018",
+    "name": "Kyogre",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "018",
+    "image": "/cards/Delta_Reign/6a-018-Kyogre.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-019",
+    "name": "Frillish",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "019",
+    "image": "/cards/Delta_Reign/6a-019-Frillish.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-020",
+    "name": "Jellicent",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "020",
+    "image": "/cards/Delta_Reign/6a-020-Jellicent.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-021",
+    "name": "Wishiwashi ex",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "021",
+    "image": "/cards/Delta_Reign/6a-021-Wishiwashi_ex.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-022",
+    "name": "Electabuzz",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "022",
+    "image": "/cards/Delta_Reign/6a-022-Electabuzz.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-023",
+    "name": "Electivire",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "023",
+    "image": "/cards/Delta_Reign/6a-023-Electivire.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-024",
+    "name": "Raikou ex",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "024",
+    "image": "/cards/Delta_Reign/6a-024-Raikou_ex.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-025",
+    "name": "Thundurus",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "025",
+    "image": "/cards/Delta_Reign/6a-025-Thundurus.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-026",
+    "name": "Pincurchin",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "026",
+    "image": "/cards/Delta_Reign/6a-026-Pincurchin.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-027",
+    "name": "Wattrel",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "027",
+    "image": "/cards/Delta_Reign/6a-027-Wattrel.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-028",
+    "name": "Kilowattrel",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "028",
+    "image": "/cards/Delta_Reign/6a-028-Kilowattrel.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-029",
+    "name": "Drowzee",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "029",
+    "image": "/cards/Delta_Reign/6a-029-Drowzee.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-030",
+    "name": "Hypno",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "030",
+    "image": "/cards/Delta_Reign/6a-030-Hypno.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-031",
+    "name": "Giratina",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "031",
+    "image": "/cards/Delta_Reign/6a-031-Giratina.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-032",
+    "name": "Golett",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "032",
+    "image": "/cards/Delta_Reign/6a-032-Golett.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-033",
+    "name": "Mega Golurk ex",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "033",
+    "image": "/cards/Delta_Reign/6a-033-Mega_Golurk_ex.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-034",
+    "name": "Enamorus",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "034",
+    "image": "/cards/Delta_Reign/6a-034-Enamorus.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-035",
+    "name": "Sandshrew",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "035",
+    "image": "/cards/Delta_Reign/6a-035-Sandshrew.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-036",
+    "name": "Sandslash",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "036",
+    "image": "/cards/Delta_Reign/6a-036-Sandslash.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-037",
+    "name": "Onix",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "037",
+    "image": "/cards/Delta_Reign/6a-037-Onix.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-038",
+    "name": "Steelix",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "038",
+    "image": "/cards/Delta_Reign/6a-038-Steelix.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-039",
+    "name": "Groudon",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "039",
+    "image": "/cards/Delta_Reign/6a-039-Groudon.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-040",
+    "name": "Landorus",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "040",
+    "image": "/cards/Delta_Reign/6a-040-Landorus.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-041",
+    "name": "Nidoran F",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "041",
+    "image": "/cards/Delta_Reign/6a-041-Nidoran_F.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-042",
+    "name": "Nidorina",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "042",
+    "image": "/cards/Delta_Reign/6a-042-Nidorina.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-043",
+    "name": "Nidoqueen",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "043",
+    "image": "/cards/Delta_Reign/6a-043-Nidoqueen.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-044",
+    "name": "Spinarak",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "044",
+    "image": "/cards/Delta_Reign/6a-044-Spinarak.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-045",
+    "name": "Ariados",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "045",
+    "image": "/cards/Delta_Reign/6a-045-Ariados.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-046",
+    "name": "Sableye",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "046",
+    "image": "/cards/Delta_Reign/6a-046-Sableye.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-047",
+    "name": "Inkay",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "047",
+    "image": "/cards/Delta_Reign/6a-047-Inkay.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-048",
+    "name": "Mega Malamar ex",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "048",
+    "image": "/cards/Delta_Reign/6a-048-Mega_Malamar_ex.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-049",
+    "name": "Druddigon",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "049",
+    "image": "/cards/Delta_Reign/6a-049-Druddigon.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-050",
+    "name": "Jangmo o",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "050",
+    "image": "/cards/Delta_Reign/6a-050-Jangmo_o.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-051",
+    "name": "Hakamo o",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "051",
+    "image": "/cards/Delta_Reign/6a-051-Hakamo_o.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-052",
+    "name": "Kommo o",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "052",
+    "image": "/cards/Delta_Reign/6a-052-Kommo_o.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-053",
+    "name": "Cyclizar",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "053",
+    "image": "/cards/Delta_Reign/6a-053-Cyclizar.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-054",
+    "name": "Azurill",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "054",
+    "image": "/cards/Delta_Reign/6a-054-Azurill.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-055",
+    "name": "Swablu",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "055",
+    "image": "/cards/Delta_Reign/6a-055-Swablu.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-056",
+    "name": "Altaria",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "056",
+    "image": "/cards/Delta_Reign/6a-056-Altaria.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-057",
+    "name": "Kecleon",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "057",
+    "image": "/cards/Delta_Reign/6a-057-Kecleon.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-058",
+    "name": "Mega Rayquaaza ex",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "058",
+    "image": "/cards/Delta_Reign/6a-058-Mega_Rayquaaza_ex.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-059",
+    "name": "Tornadus",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "059",
+    "image": "/cards/Delta_Reign/6a-059-Tornadus.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-060",
+    "name": "Fletchling",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "060",
+    "image": "/cards/Delta_Reign/6a-060-Fletchling.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-061",
+    "name": "Fletchinder",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "061",
+    "image": "/cards/Delta_Reign/6a-061-Fletchinder.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-062",
+    "name": "Talonflame ex",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "062",
+    "image": "/cards/Delta_Reign/6a-062-Talonflame_ex.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-063",
+    "name": "Yummy Onigiri",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "063",
+    "image": "/cards/Delta_Reign/6a-063-Yummy_Onigiri.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-064",
+    "name": "Adventuring Lantern",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "064",
+    "image": "/cards/Delta_Reign/6a-064-Adventuring_Lantern.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-065",
+    "name": "Custom Vest",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "065",
+    "image": "/cards/Delta_Reign/6a-065-Custom_Vest.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-066",
+    "name": "Mega Rayquaza Cap",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "066",
+    "image": "/cards/Delta_Reign/6a-066-Mega_Rayquaza_Cap.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-068",
+    "name": "Aarune",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "068",
+    "image": "/cards/Delta_Reign/6a-068-Aarune.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-071",
+    "name": "Legendary Trench L",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "071",
+    "image": "/cards/Delta_Reign/6a-071-Legendary_Trench_L.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-072",
+    "name": "Legendary Trench R",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "072",
+    "image": "/cards/Delta_Reign/6a-072-Legendary_Trench_R.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-073",
+    "name": "Legendary Summit L",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "073",
+    "image": "/cards/Delta_Reign/6a-073-Legendary_Summit_L.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-074",
+    "name": "Legendary Summit R",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "074",
+    "image": "/cards/Delta_Reign/6a-074-Legendary_Summit_R.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-075",
+    "name": "Legendary Lava Lake L",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "075",
+    "image": "/cards/Delta_Reign/6a-075-Legendary_Lava_Lake_L.webp"
+  },
+  {
+    "id": "Delta_Reign-6a-076",
+    "name": "Legendary Lava Lake R",
+    "setCode": "6a",
+    "setFolder": "Delta_Reign",
+    "setLabel": "Delta Reign",
+    "number": "076",
+    "image": "/cards/Delta_Reign/6a-076-Legendary_Lava_Lake_R.webp"
+  },
+  {
+    "id": "Promos-1p-099",
+    "name": "Grisham",
+    "setCode": "1p",
+    "setFolder": "Promos",
+    "setLabel": "Promos",
+    "number": "099",
+    "image": "/cards/Promos/1p-099-Grisham.webp"
+  },
+  {
+    "id": "Promos-1p-138",
+    "name": "Wimpod",
+    "setCode": "1p",
+    "setFolder": "Promos",
+    "setLabel": "Promos",
+    "number": "138",
+    "image": "/cards/Promos/1p-138-Wimpod.webp"
+  },
+  {
+    "id": "Promos-1p-139",
+    "name": "Mega Tatsugiri ex",
+    "setCode": "1p",
+    "setFolder": "Promos",
+    "setLabel": "Promos",
+    "number": "139",
+    "image": "/cards/Promos/1p-139-Mega_Tatsugiri_ex.webp"
+  },
+  {
+    "id": "Promos-1p-140",
+    "name": "Tynamo",
+    "setCode": "1p",
+    "setFolder": "Promos",
+    "setLabel": "Promos",
+    "number": "140",
+    "image": "/cards/Promos/1p-140-Tynamo.webp"
+  },
+  {
+    "id": "Promos-1p-143",
+    "name": "Lida",
+    "setCode": "1p",
+    "setFolder": "Promos",
+    "setLabel": "Promos",
+    "number": "143",
+    "image": "/cards/Promos/1p-143-Lida.webp"
+  }
+]
